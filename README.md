@@ -1,23 +1,20 @@
+These are [Keyboard Maestro](http://www.keyboardmaestro.com/main/) macros for making transcription with Express Scribe and MS Word much more productive.
 
-# AV Transcription Keyboard Maestro Macros
+#Installation
 
-### October 20, 2014  
-V. 2.2.1  
-Created capitalized versions for the letters d, e, f, g, h, j, k, m, n, o, p, r, t, y (in addition to the letters b and l already done)
+Download the .kmmacros file and file>import macros in Keyboard Maestro.
 
-### November 21, 2014  
-V. 2.2.2
-Changed all ‘put’ macros to insert text by typing instead of pasting.
+#Prerequisites
 
-### November 26, 2014
-v. 2.2.3
-Created "helper" directory with "put var" and "assign var" items.
+* MS Word for Mac
+* Express Scribe
 
-### December 18, 2014
-v. 2.2.4
-yeah and mm-hm ---> ctrl+command+y/m and command-shift+y/m
+#Setup
 
-command-ctrl-; to insert timestamp plus "@"
+* In Express Scribe, set the keyboard shortcut for "copy time" to ⌘⇧⌥/  
 
-You dont have to eliminate any spaces, theyll be taken out automatically, when assining a var.
+#Usage
 
+This is a complex set of macros, enough that they basically comprise their own cobbled together application.
+
+While in 
